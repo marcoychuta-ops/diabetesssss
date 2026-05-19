@@ -1,0 +1,3 @@
+COLOCA AQUÍ TU ARCHIVO .PKL
+Ejemplo:
+modelo.pkl

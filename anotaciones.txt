@@ -1,0 +1,13 @@
+PROMPT UTILIZADO:
+
+Crea un aplicativo en Streamlit para predecir diabetes usando Machine Learning.
+El aplicativo debe permitir ingresar:
+- Glucose
+- BloodPressure
+- SkinThickness
+- Insulin
+- BMI
+- Age
+
+El modelo debe cargar un archivo .pkl y mostrar el resultado de predicción.
+Debe tener una interfaz amigable y usar Python, Streamlit y Pickle.
